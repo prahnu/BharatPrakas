@@ -1,3 +1,9 @@
 .navbar .BP-Logo {
 	height: 70%;
 }
+.owl-item {
+	height: 600px;
+}
+.owl-carousel-item {
+	position: static !important;
+}
